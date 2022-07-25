@@ -95,10 +95,10 @@ GEM
     mini_portile2 (2.8.0)
     minitest (5.16.2)
     nio4r (2.5.8)
-    nokogiri (1.13.7)
+    nokogiri (1.13.8)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
-    nokogiri (1.13.7-x86_64-darwin)
+    nokogiri (1.13.8-x86_64-darwin)
       racc (~> 1.4)
     pg (1.4.1)
     pry (0.14.1)
@@ -179,7 +179,7 @@ GEM
       sprockets (>= 3.0.0)
     thor (1.2.1)
     thread_safe (0.3.6)
-    tilt (2.0.10)
+    tilt (2.0.11)
     tzinfo (1.2.10)
       thread_safe (~> 0.1)
     uglifier (4.2.0)
@@ -220,4 +220,4 @@ RUBY VERSION
    ruby 2.7.4p191
 
 BUNDLED WITH
-   2.3.6
+   2.3.17

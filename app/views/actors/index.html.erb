@@ -1,0 +1,8 @@
+<h2>Actor Index</h2>
+
+<% @actors.each_with_index do |actor, index| %>
+  <div id="actors-<%= index %>">
+    <p>Name: <%= actor.name %></p>
+    <p>Age: <%= actor.age %></p>
+  </div>
+<% end %>
